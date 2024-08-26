@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN-Xv6s2zSDZjqPppXZkp3Zxjl6gkJ42KwCwQ-Hbr-f-fS13Gy);
+    background-size: cover;
+ 
+}
+.navbar{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-brand img{
+    width: 100px;
+    height: auto;
+}
+.nav-item{
+        padding: 20px;
+}
+.container {
+    display: flex;
+    align-items: flex-start;
+    padding: 20px;
+}
+.pic{
+    width: 250px;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.pic1{
+    width: 300px;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.text{
+margin-left: 400px;
+margin-top: 50px;
+}
+.pic2{
+    width: 350px;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.pic3{
+    width: 400px;
+    margin-left: 50px;
+    padding-top: 30px;
+}

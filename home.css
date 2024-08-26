@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN-Xv6s2zSDZjqPppXZkp3Zxjl6gkJ42KwCwQ-Hbr-f-fS13Gy);
+    background-size: cover;
+ 
+}
+.navbar{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-brand img{
+    width: 100px;
+    height: auto;
+}
+.nav-item{
+        padding: 20px;
+}
+
+.hero-section{
+    text-align: center;
+    text-emphasis-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.heading{
+    font-size: 50px;
+    padding-top: 100px;
+    align-items: center;
+}
+.para{
+    font-size: larger;
+    font-weight: 300;
+    font-style: italic;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

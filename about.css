@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN-Xv6s2zSDZjqPppXZkp3Zxjl6gkJ42KwCwQ-Hbr-f-fS13Gy);
+    background-size: cover;
+ 
+}
+.navbar{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-brand img{
+    width: 100px;
+    height: auto;
+}
+.nav-item{
+        padding: 20px;
+}
+.para{
+    align-items: center;
+    margin-left: 30px;
+}

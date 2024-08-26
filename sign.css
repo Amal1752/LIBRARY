@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN-Xv6s2zSDZjqPppXZkp3Zxjl6gkJ42KwCwQ-Hbr-f-fS13Gy);
+    background-size: cover;
+    display: flex;
+    justify-content:center ;
+    align-items: center; 
+}
+.login{
+    text-align: center;
+    font-weight: 500;
+    font-size: 70px;
+    padding-top: 20%;
+    padding-bottom: 10%;
+}
+.user{
+    text-align: start;
+    margin-top: 8%;
+    font-weight: 500;
+    font-size:25px ;
+    margin-bottom: 5%;
+}
+.noacc{
+    text-align: center;
+    margin-top: 30%;
+} 
